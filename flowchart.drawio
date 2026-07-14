@@ -1,0 +1,30 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Halaman-1" id="6nCF1sffne4L2ZHjbLTe">
+    <mxGraphModel dx="860" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EQ99djflTcMOGLA56Ecm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EQ99djflTcMOGLA56Ecm-3" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;direction=south;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="370" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EQ99djflTcMOGLA56Ecm-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EQ99djflTcMOGLA56Ecm-6" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;direction=south;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="370" y="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DFEEC0QsdTwS7AQmG7R2" name="Halaman-2">
+    <mxGraphModel dx="860" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
